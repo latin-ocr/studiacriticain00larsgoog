@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./studiacriticain00larsgoog_0008.png"; bbox 0 0 3282 5146; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 153 631 1509 913">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 153 596 1509 913">
+     <span class='ocr_line' id='line_1_1' title="bbox 153 631 1509 913; baseline -0.005 -56"><span class='ocrx_word' id='word_1_1' title='bbox 153 726 183 752; x_wconf 89' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 329 710 1197 857; x_wconf 74' lang='lat' dir='ltr'><strong>STUDIACRITICA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1351 813 1356 913; x_wconf 89' lang='lat'><em>;</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1507 631 1509 634; x_wconf 60' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 182 1643 1606 1910">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 143 1589 1606 1964">
+     <span class='ocr_line' id='line_1_2' title="bbox 182 1643 1606 1910; baseline 0.048 -68.134"><span class='ocrx_word' id='word_1_5' title='bbox 182 1649 774 1849; x_wconf 67' lang='lat' dir='ltr'><strong>PLUTARcffl</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 864 1643 1344 1846; x_wconf 64' lang='lat' dir='ltr'><strong>MORALIA·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1448 1772 1606 1910; x_wconf 78' lang='grc' dir='ltr'>κ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 519 2748 1282 2846">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 519 2720 1282 2846">
+     <span class='ocr_line' id='line_1_3' title="bbox 519 2748 1282 2846; baseline 0.004 -23"><span class='ocrx_word' id='word_1_8' title='bbox 519 2748 662 2846; x_wconf 77' lang='lat' dir='ltr'><strong>sofus</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 695 2749 790 2826; x_wconf 69' lang='lat' dir='ltr'><strong>cun.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 826 2748 1005 2826; x_wconf 70' lang='grc' dir='ltr'>ιΑκεεΝ.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1116 2778 1119 2786; x_wconf 69' lang='lat'>,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1280 2793 1282 2796; x_wconf 92' lang='lat'>-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 817 2843 860 2873">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 817 2843 860 2873">
+     <span class='ocr_line' id='line_1_4' title="bbox 817 2843 854 2852; baseline 0.027 -1"><span class='ocrx_word' id='word_1_13' title='bbox 817 2843 854 2852; x_wconf 55' lang='lat'><strong>*-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 820 2863 860 2873; baseline 0.025 -1"><span class='ocrx_word' id='word_1_14' title='bbox 820 2863 860 2873; x_wconf 78' lang='lat'><strong>¹-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1646 5146">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1646 5146">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1646 5146; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1646 5146; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
